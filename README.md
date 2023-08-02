@@ -1,3 +1,3 @@
-# netflix-clone
+# Netflix-clone
 
-THIS IS NETFLIX CLONE MADE FROM SCRATCH USING HTML AND CSS
+this is a netflix clone made from scratch using html and css only
